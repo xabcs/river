@@ -30,7 +30,7 @@ module.exports = {
     ],
   ],
   themeConfig:{
-    sidebar: 'structuring',
+    // sidebar: 'structuring',
     nav: [
       { text: '首页', link: '/' },
       {

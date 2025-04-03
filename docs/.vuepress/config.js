@@ -4,7 +4,7 @@ const themeConfig = require('./config/themeConfig.js');
 
 module.exports = {
   theme: 'vdoing', // 使用npm包主题
-  title: "river",
+  title: "大象在漫步",
   description: 'vdoing博客主题模板',
   base: '/river/', // 格式：'/<仓库名>/'， 默认'/'
   markdown: {
@@ -122,10 +122,9 @@ module.exports = {
       },
     ],
     bodyBgImg: [
-      '/img/home1.png',
-      'https://cdn.jsdelivr.net/gh/xugaoyi/image_store/blog/20200507175845.jpeg',
-      'https://cdn.jsdelivr.net/gh/xugaoyi/image_store/blog/20200507175846.jpeg'
-    ],
+      '/img/home6.jpg',
 
+    ],
+    bodyBgImgOpacity: 0.8, // body背景图透明度，选值 0.1~1.0, 默认0.5
   }
 }

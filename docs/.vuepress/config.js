@@ -30,7 +30,7 @@ module.exports = {
     ],
   ],
   themeConfig:{
-    // sidebar: 'structuring',
+    sidebar: 'structuring',
     nav: [
       { text: '首页', link: '/' },
       {
@@ -125,6 +125,6 @@ module.exports = {
       '/img/home6.jpg',
 
     ],
-    bodyBgImgOpacity: 0.8, // body背景图透明度，选值 0.1~1.0, 默认0.5
+    bodyBgImgOpacity: 0.7, // body背景图透明度，选值 0.1~1.0, 默认0.5
   }
 }

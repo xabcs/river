@@ -113,7 +113,7 @@ $ git clone git@github.com:lql95/lql-notes.git
 
 现在基本配置项都已经搞定，可以将代码提交上去，然后`GitHub Actions`会自动将代码部署到 `gh-pages` 分支。
 
-## 终极配置,,
+## 终极配置,,,
 
 终极配置就是等 GitHub Actions 跑完之后，我们能看到分支当中多了一个 `gh-pages` 分支。
 

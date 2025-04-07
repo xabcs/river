@@ -122,7 +122,8 @@ module.exports = {
       },
     ],
     bodyBgImg: [
-      '/img/home6.jpg',
+      // '/img/home6.jpg',
+      'https://hzmpm.oss-cn-hangzhou.aliyuncs.com/image_store/river/home6.jpg',
 
     ],
     bodyBgImgOpacity: 0.7, // body背景图透明度，选值 0.1~1.0, 默认0.5
